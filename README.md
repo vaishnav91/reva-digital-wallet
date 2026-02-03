@@ -1,4 +1,4 @@
-# Reva Digital Wallet
+# Reva Digital Wallet & Expense Tracker
 
 ## Overview
 **Reva Digital Wallet** is a Java-based digital wallet application built using Spring Boot. It allows users to securely manage their finances, track transactions, and perform wallet operations with ease. The project demonstrates a full-stack approach using Java, Spring Boot, and a relational database.
@@ -43,3 +43,4 @@ mvn spring-boot:run
 ```bash
 Default URL: http://localhost:8080
 ```
+
